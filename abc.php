@@ -56,7 +56,7 @@
         <h2>Login</h2>
 
         <form>
-            email
+            email1121112
             <input type="email" placeholder="Enter Email">
             password
             <input type="password" placeholder="Enter Password">
