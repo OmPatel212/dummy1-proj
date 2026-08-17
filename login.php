@@ -56,9 +56,9 @@
         <h2>Login</h2>
 
         <form>
-            email 1
+            email 12
             <input type="email" placeholder="Enter Email">
-            password 1
+            password 12
             <input type="password" placeholder="Enter Password">
 
             <button type="submit">Login</button>
